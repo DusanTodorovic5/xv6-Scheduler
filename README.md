@@ -12,7 +12,7 @@ void chsched(int scheduler_type);
 ```
 Where ``scheduler_type`` can be
   - 0 for Shortest job first - Non-Preemptive 
-  - 1 for Shotrest job first - Preemptive
+  - 1 for Shortest job first - Preemptive
   - 2 for Completely fair scheduler
 
 
