@@ -4,7 +4,7 @@ CFS and SFJ Scheduler implementation for xv6 risc5
 
 # Features
 
-## System call for chaning scheduler
+## System call for changing scheduler
 
 The following line represents the function call
 ```
