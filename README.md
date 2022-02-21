@@ -11,9 +11,9 @@ The following line represents the function call
 void chsched(int scheduler_type);
 ```
 Where ``scheduler_type`` can be
-  - 1. Shortest job first - Non-Preemptive 
-  - 2. Shotrest job first - Preemptive
-  - 3. Completely fair scheduler
+  - 1 for Shortest job first - Non-Preemptive 
+  - 2 for Shotrest job first - Preemptive
+  - 3 for Completely fair scheduler
 
 
 ## Shortest job first
