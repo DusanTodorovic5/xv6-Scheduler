@@ -1,4 +1,4 @@
-# xv6-Scheduler
+# xv6-os-scheduler
 CFS and SFJ Scheduler implementation for xv6 risc5 
 
 
